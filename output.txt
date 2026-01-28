@@ -1,0 +1,14 @@
+Call Added: 9876543210
+Call Added: 9123456780
+Call Added: 9988776655
+
+Call History (Latest First):
+9988776655
+9123456780
+9876543210
+
+Removed Call: 9988776655
+
+Call History (Latest First):
+9123456780
+9876543210
